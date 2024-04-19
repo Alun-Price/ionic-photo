@@ -1,0 +1,7 @@
+{
+  "name": "ionic-photo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
